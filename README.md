@@ -98,7 +98,13 @@ ART/
 If you use this code or find our work helpful in your research, please cite our paper:
 
 ```bibtex
-Soon
+@inproceedings{bouri2026art,
+  title={ART: Attention-Regularized Transformers for Multi-Modal Robustness},
+  author={Bouri, Mohammed and Erradi, Mohammed and Saoud, Adnane},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2026},
+  pages={5510--5535},
+  year={2026}
+}
 ```
 
 ## 🤝 Contributions
