@@ -1,6 +1,6 @@
 # 🧠 ART: Attention-Regularized Transformers for Multi-Modal Robustness
 
-Official implementation of **ART: Attention-Regularized Transformers for Multi-Modal Robustness**, accepted at **Findings of EACL**.
+Official implementation of **[ART: Attention-Regularized Transformers for Multi-Modal Robustness](https://aclanthology.org/2026.findings-eacl.292/)**, accepted at **Findings of EACL**.
 
 This repository provides a unified **multi-modal framework** for improving the **adversarial robustness of Transformer-based models** via **attention regularization**, covering both **text** and **image** modalities.
 
